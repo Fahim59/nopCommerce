@@ -1,0 +1,26 @@
+{
+  "billingDetails": {
+    "firstName": "Mustafizur",
+    "lastName": "Rahman",
+    "email": "mustafizur171@gmail.com",
+    "company": "Brain Station 23",
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "address": "83, Adabor, Shyamoli",
+    "zip": "1207",
+    "phone": "01686026037"
+  },
+
+  "cardInfo": {
+    "name": "Mustafizur Rahman",
+    "number": "378734493671000",
+    "code": "1122",
+    "year": "2027"
+  },
+
+  "products": {
+    "product1": "Pomelo (Jambura) Kg",
+    "product2": "Shwapno Butter Bun 100gm",
+    "message": "Your order has been placed successfully"
+  }
+}

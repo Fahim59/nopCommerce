@@ -1,0 +1,29 @@
+2024-05-11 11:19:09.018 [main] INFO  Framework.hooks.MyHooks - Browser launched successfully
+2024-05-11 11:19:11.823 [main] INFO  Framework.stepDef.HomeDefinition - User go to the NopCommerce Home page
+2024-05-11 11:19:26.194 [main] INFO  Framework.hooks.MyHooks - Browser launched successfully
+2024-05-11 11:19:27.877 [main] INFO  Framework.stepDef.HomeDefinition - User go to the NopCommerce Home page
+2024-05-11 11:19:31.203 [main] INFO  Framework.stepDef.HomeDefinition - Login to the site
+2024-05-11 11:20:05.050 [main] INFO  Framework.hooks.MyHooks - Browser launched successfully
+2024-05-11 11:20:07.150 [main] INFO  Framework.stepDef.HomeDefinition - User go to the NopCommerce Home page
+2024-05-11 11:21:49.754 [main] INFO  Framework.hooks.MyHooks - Browser launched successfully
+2024-05-11 11:21:53.992 [main] INFO  Framework.stepDef.HomeDefinition - User go to the NopCommerce Home page
+2024-05-11 11:22:05.133 [main] INFO  Framework.hooks.MyHooks - Browser launched successfully
+2024-05-11 11:22:08.973 [main] INFO  Framework.stepDef.HomeDefinition - User go to the NopCommerce Home page
+2024-05-11 11:22:10.288 [main] INFO  Framework.stepDef.HomeDefinition - Login to the site
+2024-05-11 11:24:08.057 [main] INFO  Framework.hooks.MyHooks - Browser launched successfully
+2024-05-11 11:24:12.100 [main] INFO  Framework.stepDef.HomeDefinition - User go to the NopCommerce Home page
+2024-05-11 11:24:13.420 [main] INFO  Framework.stepDef.HomeDefinition - Login to the site
+2024-05-11 11:25:18.639 [main] INFO  Framework.hooks.MyHooks - Browser launched successfully
+2024-05-11 11:25:22.511 [main] INFO  Framework.stepDef.HomeDefinition - User go to the NopCommerce Home page
+2024-05-11 11:25:24.314 [main] INFO  Framework.stepDef.HomeDefinition - Login to the site
+2024-05-11 11:33:47.334 [main] INFO  Framework.hooks.MyHooks - Browser launched successfully
+2024-05-11 11:33:51.081 [main] INFO  Framework.stepDef.HomeDefinition - User go to the NopCommerce Home page
+2024-05-11 11:33:52.370 [main] INFO  Framework.stepDef.HomeDefinition - Login to the site
+2024-05-11 11:34:01.977 [main] INFO  Framework.stepDef.HomeDefinition - Search two product from test data file and add to the shopping cart
+2024-05-11 11:34:58.168 [main] INFO  Framework.hooks.MyHooks - Browser launched successfully
+2024-05-11 11:35:01.988 [main] INFO  Framework.stepDef.HomeDefinition - User go to the NopCommerce Home page
+2024-05-11 11:35:03.439 [main] INFO  Framework.stepDef.HomeDefinition - Login to the site
+2024-05-11 11:35:07.872 [main] INFO  Framework.stepDef.HomeDefinition - Search two product from test data file and add to the shopping cart
+2024-05-11 11:35:09.878 [main] INFO  Framework.stepDef.HomeDefinition - Go to shopping cart and checkout
+2024-05-11 11:35:10.143 [main] INFO  Framework.stepDef.CartDefinition - Place order successfully
+2024-05-11 11:35:11.218 [main] INFO  Framework.stepDef.CartDefinition - Go to the order details page and verify the order
